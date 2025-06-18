@@ -1,0 +1,8 @@
+Dear {{customer_name}},
+
+We’d love to help you out, but we need a bit more information to proceed. Could you please confirm your order ID and the issue you're facing?
+
+Looking forward to assisting you further.
+
+Kind regards,  
+Agent

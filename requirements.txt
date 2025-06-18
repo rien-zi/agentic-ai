@@ -1,0 +1,18 @@
+# Core LLM stack
+langchain==0.3.25
+langchain-community==0.3.25
+langchain-openai==0.1.8
+
+# Vector store
+faiss-cpu==1.11.0
+
+# Document loading/parsing
+unstructured==0.12.6
+markdown==3.5.2
+
+# Embeddings + tokenizer
+tiktoken==0.7.0
+openai==1.26.0
+
+# Utility
+python-dotenv==1.0.1

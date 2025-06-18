@@ -1,0 +1,8 @@
+Dear {{customer_name}},
+
+Thank you for reaching out. Unfortunately, your order does not meet our refund eligibility criteria as it was placed more than 7 days ago.
+
+We truly value your support and hope to serve you better in the future.
+
+Warm regards,  
+Agent
